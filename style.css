@@ -22,7 +22,7 @@ body{
     border-style: groove;
     border-color: rgb(196, 255, 196);
 }
-#one{
+.one{
     font-style: italic;
     font-size: 10px;
     color: beige;
