@@ -1,11 +1,11 @@
 h1{
-    color: aqua;
+    color: rgb(1, 18, 18);
 
 }
 body{
-    background-image: url(Images/th.webp);
+
     background-repeat: no-repeat;
-    background-position: right;
+    
     background-attachment:scroll;
 }
 #para1{
