@@ -1,5 +1,8 @@
 body{
-    background-color: antiquewhite;
+    color: azure;
+    background-image:url(image.jpg);
+    background-size: cover;
+
 }
 
 .sidebar{ 
