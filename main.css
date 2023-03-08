@@ -1,5 +1,5 @@
 body{
-    background-image: url(Images/image..jpg);
+    background-color: aliceblue;
     background-repeat: no-repeat;
     background-size:cover;
     text-align: center;
@@ -11,8 +11,10 @@ body{
     border: 2px solid cyan;
     width: 500px;
     padding: 10px;
-    margin-top: 100px;
+    margin-top: 00px;
     border-radius: 30px;
+    background-color: azure;
+    
 
 }
 .title{
@@ -25,4 +27,14 @@ body{
     margin-top: 30px;
     background-color: black;
     color: white;
+    border-radius: 25px;
+}
+#Sign-in-button:hover{
+
+    background-color:cornsilk;
+    transition:200ms ease-in-out;
+    color: black;
+}
+.image{
+    
 }

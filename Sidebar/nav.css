@@ -41,9 +41,10 @@ a:hover{
 } 
 .my-name{
     font-size: 35px;
-    font-family:'Courier New', Courier, monospace ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
-    text-align: center
+    margin-left: 50px;
+
 
 }
 .main-content{
